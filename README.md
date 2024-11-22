@@ -55,7 +55,11 @@ Ask Questions: Navigate to the Ask Question page and type your query.
 
 # Future Enhancements
 Add private chat functionality.
+
 Integrate user profiles and avatars.
+
 Implement email verification for signup.
+
 Enhance the UI for a more modern design.
+
 Improve error handling and logging.
