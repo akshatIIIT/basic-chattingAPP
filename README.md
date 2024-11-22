@@ -43,10 +43,14 @@ disconnect: Notifies when a user leaves.
 user_message: Broadcasts user messages to all connected clients.
 
 # How to Use
-Start the server and navigate to http://localhost:5000 in your browser.
+Start the server and navigate to http://localhost:port in your browser.
+
 Sign Up: Create an account by providing a username and password.
+
 Login: Use the registered credentials to log in.
+
 Chat: Send and receive real-time messages.
+
 Ask Questions: Navigate to the Ask Question page and type your query.
 
 # Future Enhancements
